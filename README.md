@@ -1,4 +1,4 @@
-# Le kit Pirate d'Huxaltek
+# Le kit Pirate d'Huxaltek (voleur humain)
 
 -Avantages:
 - +1 aux dégats et au toucher aux niveaux 2, 19 et 28
