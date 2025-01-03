@@ -1,0 +1,5 @@
+Mise à jour v2
+- Ajout de la compatibilité avec BG2EE et EET.
+
+Mise à jour v2.1
+- Ajout de la traduction anglaise trouvée dans le BWS.
