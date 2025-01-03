@@ -12,11 +12,10 @@
 
 -Inconvénients:
 - Du niveau 8 au niveau 21, -1 en réputation tous les 3 niveaux
-- à partir du niveau 9 ne peut plus utiliser a deuxième main
+- à partir du niveau 9 ne peut plus utiliser sa deuxième main
 - Alterne "Malédiction du pirate" et "Chance du pirate" à chaque niveau (alternant malus et bonus aux jets de sauvegarde)
 - Pénalité de 1 à la CA
 - Pas de pose de pièges
-
 - Pas de jumelage
 - -4 en charisme
 - Pas d'armes à projectile
