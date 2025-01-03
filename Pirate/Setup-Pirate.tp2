@@ -1,7 +1,7 @@
 BACKUP ~PIRATE/backup~
 AUTHOR ~Huxaltec - hydroxx9@hotmail.com~
 
-VERSION ~v2~
+VERSION ~v2.1~
 
 README ~Pirate/help/[%LANGUAGE%]PIRATEReadme.html~
 
@@ -25,11 +25,15 @@ END
 
 AUTO_TRA ~Pirate/traductions/%s~
 
-LANGUAGE ~francais~
+LANGUAGE ~Francais~
 	 ~french~
-	 ~Pirate/traductions/French/Setup.tra~
+	 ~Pirate/traductions/french/Setup.tra~
+	 
+LANGUAGE ~English~
+	 ~english~
+	 ~Pirate/traductions/english/Setup.tra~
 
-BEGIN ~Pirate Kit v1.1~
+BEGIN ~Pirate Kit v2.1~
 
 // The following fixes the broken kit.ids so that it can be used to detect kits properly.I stole this improved version from the Ding0.
 
